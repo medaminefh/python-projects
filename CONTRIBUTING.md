@@ -82,5 +82,5 @@ We are very excited to have you with us!
 ## Other Rules
 
 - Any contribution is welcomed such as fixing grammatical errors, fixing broken links, fixing bugs, etc.
-- Before contributing, here's our [Code of Conduct](./Code-Of-Conduct.md) which must be adhered to.
+- Before contributing, here's our [Code of Conduct](./Code-of-Conduct.md) which must be adhered to.
 - Verify that any project(s) to be added isn't already present in the repository, as yours may be a duplicate.
