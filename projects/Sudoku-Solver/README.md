@@ -44,5 +44,5 @@ python code.py
 ```
 # About Author
  I'm [Kranthi Guribilli](https://github.com/Kranthi-Guribilli), a sophomore pursuing my Bachelors in Computer Science & Engineering and an open source enthusiast.
- You can catch me on [Twitter]() and [LinkedIn]().
+ You can catch me on [Twitter](https://twitter.com/Kranthi517) and [LinkedIn](https://www.linkedin.com/in/kranthi-guribilli-1a8b24206)..
 # Happy Coding!
