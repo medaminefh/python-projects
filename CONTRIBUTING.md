@@ -58,7 +58,7 @@ We are very excited to have you with us!
   [projects directory](https://github.com/gaurtvin/python-projects/tree/master/projects)
   according to issue name.
 - Write your code and add to the respective folder in the projects directory, locally.
-- Don't forget to add a `README.md` in your folder by follwing README.md Template.
+- Don't forget to add a `README.md` in your folder by following README.md Template.
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
