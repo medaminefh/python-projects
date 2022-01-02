@@ -1,6 +1,14 @@
 # Sudoku Solver
+* It solves a Sudoku puzzle by filling the empty cells and then print the grid.
+* And the solution must satisfy all of the following rules:
+  * Each of the digits 1-9 must occur exactly once in each row.
+  * Each of the digits 1-9 must occur exactly once in each column.
+  * Each of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.
+  * The '0' indicates empty cells.
+# Overview
+* A partially filled 9*9 2D array 'grid[9][9]' will be given, the goal is to assign digits (from 1 to 9) to the empty cells so that every row, column, and subgrid of size 3 *3 contains exactly one instance of the digits from 1 to 9.
 # Prerequisites
-It requires no prerequisites, you only need to have a basic knowledge of Python and how to run the code in your terminal. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
+* It requires no prerequisites, you only need to have a basic knowledge of Python and how to run the code in your terminal. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 # Library used
   * No library was used
 # How to run the code locally
@@ -34,5 +42,7 @@ cd Sudoku-Solver
 ```
 python code.py
 ```
-# Author's Name
-[Kranthi Guribilli](https://github.com/Kranthi-Guribilli)
+# About Author
+ I'm [Kranthi Guribilli](https://github.com/Kranthi-Guribilli), a sophomore pursuing my Bachelors in Computer Science & Engineering and an open source enthusiast.
+ You can catch me on [Twitter]() and [LinkedIn]().
+# Happy Coding!
