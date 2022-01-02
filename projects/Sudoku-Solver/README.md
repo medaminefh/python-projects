@@ -1,5 +1,5 @@
 # Sudoku Solver
-![](https://github.com/Kranthi-Guribilli/Python-Projects/blob/master/projects/Sudoku-Solver/IMG_20220102_154525.jpg)
+![](https://github.com/Kranthi-Guribilli/Python-Projects/blob/master/projects/Sudoku-Solver/Image.jpg)
 * It solves a Sudoku puzzle by filling the empty cells and then print the grid.
 * And the solution must satisfy all of the following rules:
   * Each of the digits 1-9 must occur exactly once in each row.
@@ -44,7 +44,7 @@ cd Sudoku-Solver
 python code.py
 ```
 # Now, I'm expecting this output
-![](https://github.com/Kranthi-Guribilli/Python-Projects/blob/master/projects/Sudoku-Solver/IMG_20220102_154525.jpg)
+![](https://github.com/Kranthi-Guribilli/Python-Projects/blob/master/projects/Sudoku-Solver/Image.jpg)
 # About Author
  I'm [Kranthi Guribilli](https://github.com/Kranthi-Guribilli), a sophomore pursuing my Bachelors in Computer Science & Engineering and an open source enthusiast.
  You can catch me on [Twitter](https://twitter.com/Kranthi517) and [LinkedIn](https://www.linkedin.com/in/kranthi-guribilli-1a8b24206)..
