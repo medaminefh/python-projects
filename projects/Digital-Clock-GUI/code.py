@@ -13,7 +13,7 @@ def time():
     label.after(100, time)
 
 
-label = Label(root, font=("JetBrains Mono", 80), background="white", foreground="black")
+label = tk.Label(root, font=("JetBrains Mono", 80), background="white", foreground="black")
 label.pack(anchor="center")
 time()
 
