@@ -1,6 +1,6 @@
 # Windows Message Notifier
 
-This is a Simple Python Script which notify a message. It works fine with Windows and It does't work with macOS
+This is a Simple Python Script that notifies a message. It works fine with Windows and It doesn't work with macOS
 
 # Prerequisites
 
