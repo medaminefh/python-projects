@@ -39,7 +39,7 @@ cd python-projects
 cd projects
 ```
 
-- Go to the Rock-Paper-Scissors folder
+- Go to the Space-Invaders Folder
 
 ```
 cd Space-Invaders
