@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/license/gaurtvin/python-projects?label=License" alt="License" />
     <img src="https://img.shields.io/github/repo-size/gaurtvin/Python-Projects?label=Repository%20Size" alt="Size" />
     <img src="https://img.shields.io/github/issues/gaurtvin/Python-Projects?label=Issues" alt="Issues" />
-    <img src="https://img.shields.io/badge/Maintainer-Gaurav%20%26%20Tanmay-brightgreen" alt="Maintainer" /> 
+    <img src="https://img.shields.io/badge/Maintainer-Gaurav-brightgreen" alt="Maintainer" /> 
 </p>
 
 <br>
