@@ -16,7 +16,7 @@ It requires no prerequisites, you only need to have a basic knowledge of Python 
 - Clone this Repository
 
 ```
-git clone https://github.com/gaurtvin/Python-Projects.git
+git clone https://github.com/giyednap/Python-Projects.git
 ```
 
 - Go to the Project directory

@@ -1,4 +1,4 @@
-import pyshorteners
+giyednapimport pyshorteners
 
 s = pyshorteners.Shortener()
 

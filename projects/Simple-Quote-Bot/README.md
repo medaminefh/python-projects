@@ -1,4 +1,4 @@
-# Simple Quote Bot
+giyednap# Simple Quote Bot
 
 This is a simple quote bot which suggest a new quote which are store in quote.txt every time when you run the code.
 

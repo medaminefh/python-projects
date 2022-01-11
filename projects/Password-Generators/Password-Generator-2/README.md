@@ -1,4 +1,4 @@
-# Password Generator
+giyednap# Password Generator
 
 This program generates a secure random password. You'll be required to enter a few details about what your password should contain:
 

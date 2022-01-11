@@ -1,4 +1,4 @@
-# Windows Message Notifier
+giyednap# Windows Message Notifier
 
 This is a Simple Python Script that notifies a message. It works fine with Windows and It doesn't work with macOS
 

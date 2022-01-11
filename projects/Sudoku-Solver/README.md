@@ -1,4 +1,4 @@
-# Sudoku Solver
+giyednap# Sudoku Solver
 ![](https://github.com/Kranthi-Guribilli/Python-Projects/blob/master/projects/Sudoku-Solver/Image.jpg)
 * It solves a Sudoku puzzle by filling the empty cells and then print the grid.
 * And the solution must satisfy all of the following rules:

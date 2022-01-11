@@ -1,4 +1,4 @@
-# Number Guessing Game
+giyednap# Number Guessing Game
 
 This is a game that allows you guess a number between the range of 1- 10 in just 7 trials.
 

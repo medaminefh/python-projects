@@ -1,4 +1,4 @@
-# Password Validator
+giyednap# Password Validator
 
 This program validates passwords to match specific rules. A valid password is one that conforms to the following rules:
 - Minimum length is 6;
