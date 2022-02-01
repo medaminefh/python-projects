@@ -1,9 +1,9 @@
-giyednap# Open-Source Python Projects by Contributors to Dev Community!
+# Open-Source Python Projects by Contributors to Dev Community!
 
 <br>
 
 <p>
-    <img src="https://img.shields.io/badge/Contributions-Welcome-green" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Contributions-🙏-white" alt="GitHub" />
     <img src="https://img.shields.io/github/issues-pr/giyednap/Python-Projects?label=Pull%20Request" alt="GitHub" />
     <img src="https://img.shields.io/github/contributors/giyednap/python-projects?label=Contributors" alt="GitHub contributors" />
     <img src="https://img.shields.io/github/license/giyednap/python-projects?label=License" alt="License" />
