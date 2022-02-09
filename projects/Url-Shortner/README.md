@@ -32,10 +32,10 @@ cd python-projects
 cd projects
 ```
 
-- Go to the Rock-Paper-Scissors folder
+- Go to the URL-Shortner folder
 
 ```
-cd Url-Shortener
+cd Url-Shortner
 ```
 
 - Run the following command
