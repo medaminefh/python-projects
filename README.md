@@ -1,4 +1,4 @@
-# Open-Source Python Projects by Contributors to Dev Community!
+# Open-Source Python Projects by Contributors to Community!
 
 <br>
 
